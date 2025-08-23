@@ -1,4 +1,3 @@
-
 import Profile from "@/components/dashboard/user/settings/Profile";
 import React from "react";
 
